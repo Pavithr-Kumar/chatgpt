@@ -1,0 +1,4 @@
+#bt-sb {
+  grid-template-columns: 1fr 4fr 1fr;
+  row-gap: 20px;
+}
